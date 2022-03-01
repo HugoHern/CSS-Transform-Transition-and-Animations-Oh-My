@@ -1,3 +1,5 @@
 main {
-
+    /*transform: rotate(-10deg);*/
+    transform: skew(-10deg,-20deg) scale(1.2,1.2) translateX(50px);
+    width: 100%;
 }
